@@ -2,7 +2,7 @@
 This project is a part of Full stack Javascript Bootcamp.
 
 ## Project Link
-### [Digital Coin DAO](https://trending-2025.netlify.app/)
+### [Digital Coin DAO](https://digital-coin.netlify.app/)
 
 ## Snapshot
 
